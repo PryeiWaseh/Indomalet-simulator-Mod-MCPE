@@ -2,7 +2,7 @@
   "Config": [
     {
       "interval": 2,
-      "backup": "unity",
+      "backup": "applovin",
       "status": true,
       "link": "https://google.com/",
       
@@ -22,9 +22,9 @@
       "unity_inter": "Interstitial_Android",
       
       
-      "applovin_banner": "unitid",
-      "applovin_inter": "unitid",
-      "applovin_native": "unitid",
+      "applovin_banner": "4a2dd5e90fe42441",
+      "applovin_inter": "cacfea5e29f178f1",
+      "applovin_native": "1062cba1e92aabc7",
       
       "ironsource_banner": "1215fccad",
       "ironsource_inter": "1215fccad"
