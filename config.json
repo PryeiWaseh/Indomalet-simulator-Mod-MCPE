@@ -12,19 +12,19 @@
       "skin": true,
       "more": false,
       
-      "admob_open_ads": "ca-app-pub-3044835834543602/1949551856",
+      "admob_open_ads": "ca-app-pub-3044835834543602/1949551856x",
       "admob_banner": "ca-app-pub-3044835834543602/8514960208xxx",
-      "admob_inter": "ca-app-pub-3044835834543602/7201878538",
-      "admob_native": "ca-app-pub-3044835834543602/4575715193",
+      "admob_inter": "ca-app-pub-3044835834543602/7201878538x",
+      "admob_native": "ca-app-pub-3044835834543602/4575715193x",
      
       
       "unity_banner": "Banner_Android",
       "unity_inter": "Interstitial_Android",
       
       
-      "applovin_banner": "4a2dd5e90fe42441",
-      "applovin_inter": "cacfea5e29f178f1",
-      "applovin_native": "1062cba1e92aabc7",
+      "applovin_banner": "4a2dd5e90fe42441xx",
+      "applovin_inter": "cacfea5e29f178f1xx",
+      "applovin_native": "1062cba1e92aabc7xx",
       
       "ironsource_banner": "1215fccad",
       "ironsource_inter": "1215fccad"
